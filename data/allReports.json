@@ -1,1 +1,8 @@
-{}
+{
+  "VT00711": {
+    "tbTongQuan": "<h2>Test Tổng Quan</h2>",
+    "tbTBTCKV": "<p>Test TBTCKV</p>",
+    "tbCBQL": "<p>Test CBQL</p>",
+    "tbHV": "<p>Test HV</p>"
+  }
+}
